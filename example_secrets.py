@@ -1,0 +1,10 @@
+WIFI_SSID = ""
+WIFI_PW = ""
+MQTT_HOST = ""
+MQTT_CLIENT_ID = ""
+MQTT_TOPIC = ""
+MQTT_MSG = ""
+MQTT_USER = ""
+MQTT_PASS = ""
+I2C_SDA_PIN = 8
+I2C_SCL_PIN = 9
